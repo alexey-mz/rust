@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/saddle-points/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/test_sieve/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/high-scores/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/matching-brackets/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/dot-dsl/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/simple-linked-list/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/isogram/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/pascals-triangle/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/paasio/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/nucleotide-count/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/etl/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/acronym/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/anagram/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8705d46d-565c-4dda-87d3-ef385667f46e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0a9zpkej" />
+  </component>
+  <component name="ProjectId" id="1gSTOUzjLQE8mCgaN4RBRRxd8JY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/anagram/Cargo.toml" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8705d46d-565c-4dda-87d3-ef385667f46e" name="Default Changelist" comment="" />
+      <created>1598106961816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598106961816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Intentions" timestamp="1599426613916">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Intentions/0.0.2560.1400@0.0.2560.1400" timestamp="1599426613916" />
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1599424982897">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1599424982897" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1600727401827">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1600727401827" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1599345767905">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1599345767905" />
+  </component>
+</project>

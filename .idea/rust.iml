@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/saddle-points/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/saddle-points/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test_sieve/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/high-scores/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matching-brackets/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dot-dsl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dot-dsl/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/simple-linked-list/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple-linked-list/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/isogram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/isogram/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/pascals-triangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pascals-triangle/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/paasio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/paasio/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/nucleotide-count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nucleotide-count/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/etl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/etl/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/acronym/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/acronym/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/anagram/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/anagram/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/acronym/target" />
+      <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
+      <excludeFolder url="file://$MODULE_DIR$/dot-dsl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/etl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/target" />
+      <excludeFolder url="file://$MODULE_DIR$/isogram/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matching-brackets/target" />
+      <excludeFolder url="file://$MODULE_DIR$/nucleotide-count/target" />
+      <excludeFolder url="file://$MODULE_DIR$/paasio/target" />
+      <excludeFolder url="file://$MODULE_DIR$/pascals-triangle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/saddle-points/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simple-linked-list/target" />
+      <excludeFolder url="file://$MODULE_DIR$/test_sieve/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
