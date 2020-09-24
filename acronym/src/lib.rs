@@ -1,6 +1,6 @@
 pub fn abbreviate(phrase: &str) -> String {
     let t = phrase.split(|ch: char| !ch.is_alphabetic()).filter(|&x| !x.is_empty()).filter(|&x| x.len() > 1 || x.chars().next().unwrap().is_uppercase()).collect::<Vec<&str>>();
-    let res = t.iter().fold(String::new(), |mut acc, &x| {
+    t.iter().fold(String::new(), |mut acc, &x| {
         if x.chars().all(|x| x.is_uppercase()) {
             acc.push(x.chars().next().unwrap());
         }
@@ -11,6 +11,5 @@ pub fn abbreviate(phrase: &str) -> String {
             acc.push(x.chars().next().unwrap().to_ascii_uppercase());
         }
         acc
-    });
-    res
+    })
 }
